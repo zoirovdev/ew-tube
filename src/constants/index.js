@@ -1,0 +1,1 @@
+export const logo = 'https://dynamic.design.com/asset/logo/3d519db4-441e-4fab-b8c1-e0d3534146ba/logo-search-grid-1x?logoTemplateVersion=1&v=638086440065200000&text=star'
