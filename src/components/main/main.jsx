@@ -22,7 +22,7 @@ const Main = () => {
       }
     	
       getData()
-    }, [])
+    }, [selectedCategory])
 
     console.log(videos)
 
